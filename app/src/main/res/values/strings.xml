@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ufo</string>
+    <string name="game_over">GAME OVER!</string>
+    <string name="welcome">WELCOME</string>
+    <string name="choose_level_of_play">Choose level of play</string>
+    <string name="easy">EASY</string>
+    <string name="hard">HARD</string>
+    <string name="todo">TODO</string>
+</resources>
